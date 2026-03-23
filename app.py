@@ -22,7 +22,7 @@ section[data-testid="stSidebar"] { background-color: #020617; }
 
 # ---------------- HERO ----------------
 st.markdown("""
-<h1 style='text-align:center; color:#38bdf8;'>🚀 SmartDataX</h1>
+<h1 style='text-align:center; color:#38bdf8;'>🔗 TeraNexus</h1>
 <p style='text-align:center;'>From Data → Insights → Decisions</p>
 """, unsafe_allow_html=True)
 
